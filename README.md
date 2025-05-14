@@ -31,7 +31,7 @@ Data Analytics & ML Enthusiast | Turning raw data into actionable insights
 - 🧠 [Brain Tumor Classification (MLOps & Pipelines)](https://github.com/Omii2899/Brain-Tumor-Classification)  
   Developed an end-to-end ML pipeline using DVC, Docker, Airflow, and GCP for brain tumor detection from MRI scans, enabling scalable and automated diagnosis across 4 tumor classes.
 
-- 🛠 [Real-Time Sales Data Pipeline](#)  
+- 🛠 [Real-Time Sales Data Pipeline](https://github.com/shaunkirthan/SalesStream-RealTime-Pipeline)](#)  
   Automated event-driven pipeline from S3 → Snowflake → Tableau with <5 min latency for live dashboards.
 
 - 🚢 **[Yacht Price Regression Optimizer](https://github.com/shaunkirthan/yacht-price-regression-optimizer)**  
