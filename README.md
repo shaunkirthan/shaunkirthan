@@ -8,8 +8,8 @@ Data Analytics & ML Enthusiast | Turning raw data into actionable insights
 ---
 
 ### 🚀 About Me
-- 🎓 Master's in Data Analytics | Background in Computer Science
-- 🔍 Passionate about solving business problems using data pipelines, machine learning, and visualization.
+- 🎓 Master's in Data Analytics | UnderGrad in Computer Science
+- 🔍 Focused on building data pipelines, deploying machine learning models, and developing analytical dashboards to drive data-driven business solutions.
 - 🌱 Currently diving deeper into **cloud-native data engineering** and **real-time analytics**.
 - 🗺️ Based in Boston, MA
 
